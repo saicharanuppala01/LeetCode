@@ -1,5 +1,9 @@
-# LeetCode
-Here you can see my leetcode progess!
+# Hi, I'm Sai Charan 👋
+
+## LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
