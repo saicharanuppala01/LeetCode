@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saicharanuppala01/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saicharanuppala01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/saicharanuppala01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -22,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
