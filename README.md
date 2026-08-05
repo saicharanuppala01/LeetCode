@@ -59,4 +59,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saicharanuppala01/LeetCode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/saicharanuppala01/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/saicharanuppala01/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/saicharanuppala01/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
