@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saicharanuppala01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
