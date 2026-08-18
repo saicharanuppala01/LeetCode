@@ -9,11 +9,13 @@
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/saicharanuppala01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/saicharanuppala01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saicharanuppala01/LeetCode/tree/master/0001-two-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/saicharanuppala01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/saicharanuppala01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
