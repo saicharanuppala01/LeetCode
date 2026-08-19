@@ -33,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saicharanuppala01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saicharanuppala01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saicharanuppala01/LeetCode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saicharanuppala01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
