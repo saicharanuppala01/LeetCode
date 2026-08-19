@@ -10,6 +10,7 @@
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saicharanuppala01/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saicharanuppala01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/saicharanuppala01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -27,6 +28,7 @@
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saicharanuppala01/LeetCode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/saicharanuppala01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/saicharanuppala01/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
