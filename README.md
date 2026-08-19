@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saicharanuppala01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/saicharanuppala01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/saicharanuppala01/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saicharanuppala01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saicharanuppala01/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saicharanuppala01/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
