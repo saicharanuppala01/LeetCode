@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/saicharanuppala01/LeetCode/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saicharanuppala01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saicharanuppala01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/saicharanuppala01/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
