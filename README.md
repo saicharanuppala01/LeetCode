@@ -36,6 +36,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saicharanuppala01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saicharanuppala01/LeetCode/tree/master/0035-search-insert-position) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
