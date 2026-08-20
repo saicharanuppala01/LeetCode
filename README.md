@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saicharanuppala01/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saicharanuppala01/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/saicharanuppala01/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/saicharanuppala01/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
