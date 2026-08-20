@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/saicharanuppala01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/saicharanuppala01/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
@@ -109,6 +110,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saicharanuppala01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Brainteaser
 |  |
