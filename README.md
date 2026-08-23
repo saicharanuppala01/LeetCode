@@ -150,4 +150,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/saicharanuppala01/LeetCode/tree/master/0326-power-of-three) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/saicharanuppala01/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
