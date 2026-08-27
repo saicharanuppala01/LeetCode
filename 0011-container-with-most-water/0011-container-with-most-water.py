@@ -5,7 +5,7 @@ class Solution:
         right = n - 1
         ans=0
         while(left < right):
-            temp_area = min(height[left],height[right]) * (right - left)
+            temp_area = min(height[left],height[right]) * abs(right - left)
             ans = max(ans,temp_area)
             if(height[left]<height[right]):
                 left+=1
