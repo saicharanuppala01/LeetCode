@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saicharanuppala01/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -137,6 +138,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
