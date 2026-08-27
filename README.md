@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saicharanuppala01/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/saicharanuppala01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/saicharanuppala01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/saicharanuppala01/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
@@ -138,6 +139,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saicharanuppala01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -159,4 +161,8 @@
 | [0182-duplicate-emails](https://github.com/saicharanuppala01/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/saicharanuppala01/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/saicharanuppala01/LeetCode/tree/master/0577-employee-bonus) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/saicharanuppala01/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
