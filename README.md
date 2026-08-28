@@ -53,6 +53,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saicharanuppala01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/saicharanuppala01/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -87,6 +88,7 @@
 | [0020-valid-parentheses](https://github.com/saicharanuppala01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/saicharanuppala01/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saicharanuppala01/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/saicharanuppala01/LeetCode/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/saicharanuppala01/LeetCode/tree/master/0504-base-7) |
 ## Trie
 |  |
@@ -143,6 +145,7 @@
 | [0011-container-with-most-water](https://github.com/saicharanuppala01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saicharanuppala01/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/saicharanuppala01/LeetCode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
