@@ -42,6 +42,7 @@
 | [0007-reverse-integer](https://github.com/saicharanuppala01/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/saicharanuppala01/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/saicharanuppala01/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0292-nim-game) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saicharanuppala01/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/saicharanuppala01/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saicharanuppala01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Memoization
 |  |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saicharanuppala01/LeetCode/tree/master/0258-add-digits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saicharanuppala01/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
