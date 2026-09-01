@@ -44,6 +44,7 @@
 | [0066-plus-one](https://github.com/saicharanuppala01/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saicharanuppala01/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saicharanuppala01/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/saicharanuppala01/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saicharanuppala01/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/saicharanuppala01/LeetCode/tree/master/0326-power-of-three) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/saicharanuppala01/LeetCode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saicharanuppala01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Brainteaser
 |  |
@@ -165,6 +167,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/saicharanuppala01/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saicharanuppala01/LeetCode/tree/master/0326-power-of-three) |
 ## Database
 |  |
