@@ -50,6 +50,7 @@
 | [0326-power-of-three](https://github.com/saicharanuppala01/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saicharanuppala01/LeetCode/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/saicharanuppala01/LeetCode/tree/master/0504-base-7) |
+| [0728-self-dividing-numbers](https://github.com/saicharanuppala01/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saicharanuppala01/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saicharanuppala01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
