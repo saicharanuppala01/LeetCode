@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saicharanuppala01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/saicharanuppala01/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saicharanuppala01/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/saicharanuppala01/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saicharanuppala01/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saicharanuppala01/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saicharanuppala01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/saicharanuppala01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -34,6 +36,7 @@
 | [0164-maximum-gap](https://github.com/saicharanuppala01/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/saicharanuppala01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saicharanuppala01/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saicharanuppala01/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/saicharanuppala01/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -158,6 +161,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saicharanuppala01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saicharanuppala01/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saicharanuppala01/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/saicharanuppala01/LeetCode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -166,6 +170,7 @@
 | [0035-search-insert-position](https://github.com/saicharanuppala01/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saicharanuppala01/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saicharanuppala01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/saicharanuppala01/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Memoization
 |  |
 | ------- |
