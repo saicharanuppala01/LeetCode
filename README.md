@@ -100,6 +100,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saicharanuppala01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/saicharanuppala01/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/saicharanuppala01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saicharanuppala01/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saicharanuppala01/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/saicharanuppala01/LeetCode/tree/master/0392-is-subsequence) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saicharanuppala01/LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/saicharanuppala01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saicharanuppala01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saicharanuppala01/LeetCode/tree/master/0344-reverse-string) |
