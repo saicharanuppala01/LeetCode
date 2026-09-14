@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/saicharanuppala01/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saicharanuppala01/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/saicharanuppala01/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/saicharanuppala01/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/saicharanuppala01/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/saicharanuppala01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saicharanuppala01/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -175,6 +176,7 @@
 | [0069-sqrtx](https://github.com/saicharanuppala01/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saicharanuppala01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/saicharanuppala01/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/saicharanuppala01/LeetCode/tree/master/0704-binary-search) |
 ## Memoization
 |  |
 | ------- |
