@@ -208,6 +208,7 @@
 | [0607-sales-person](https://github.com/saicharanuppala01/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/saicharanuppala01/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0619-biggest-single-number) |
+| [1757-recyclable-and-low-fat-products](https://github.com/saicharanuppala01/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
 | ------- |
