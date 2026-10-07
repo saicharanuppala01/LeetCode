@@ -209,6 +209,7 @@
 | [0610-triangle-judgement](https://github.com/saicharanuppala01/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/saicharanuppala01/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/saicharanuppala01/LeetCode/tree/master/0620-not-boring-movies) |
+| [1527-patients-with-a-condition](https://github.com/saicharanuppala01/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/saicharanuppala01/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
